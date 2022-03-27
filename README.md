@@ -42,7 +42,7 @@
 ```
 
 * Maka hasilnya akan seperti berikut.
-![struktur](list.JPG)
+![struktur](list.png)
 ## 2. Membuat Tabel Sederhana
 * kemudian Membuat Tabel Sederhana
 <!-- Ini adalah paragraf pertama -->
@@ -76,7 +76,7 @@
 ```
 
 * model tabel pemrograman web Maka hasilnya akan seperti berikut.
-![internal](tabel.PNG)
+![internal](tabel.png)
 * menambahkan border
 ```
  <table border="1" cellpadding="6" cellspacing="0">
@@ -108,4 +108,4 @@
 </form>
 ```
 * model tabel pemrograman web Maka hasilnya akan seperti berikut.
-![internal](form.PNG)
+![internal](form.png)
