@@ -3,7 +3,7 @@
 | # | Biodata |
 | -------- | --- |
 | *Nama* | Muhammad rizky abdillah |
-| *NIM* | 312010468 |
+| *NIM* | 312010368 |
 | *Kelas* | TI.20.A.2 |
 | *Mata Kuliah* | Pemrograman Web |
 ## 1. Membuat Dokumen LIST
